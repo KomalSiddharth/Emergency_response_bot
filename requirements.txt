@@ -1,0 +1,4 @@
+geocoder
+smtplib
+email
+python-dotenv
